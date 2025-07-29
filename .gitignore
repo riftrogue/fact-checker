@@ -1,4 +1,5 @@
 .env
+env/
 vectorstore/
 raw_docs/
 *.pyc
